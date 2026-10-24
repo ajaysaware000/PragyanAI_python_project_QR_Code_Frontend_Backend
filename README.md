@@ -215,10 +215,6 @@ Replace `app.py` with the actual entry-point filename.
 - GitHub Profile: https://github.com/ajaysaware000
 - Project Repository: https://github.com/ajaysaware000/PragyanAI_python_project_QR_Code_Frontend_Backend
 
-## 📄 License
-
-A license has not been specified. Add a `LICENSE` file if you intend to distribute the project under an open-source license.
-
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
